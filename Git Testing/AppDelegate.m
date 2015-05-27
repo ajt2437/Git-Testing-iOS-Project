@@ -18,6 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     NSLog(@"Nothing new here");
+    NSLog(@"Woop did something wrong");
     return YES;
 }
 
